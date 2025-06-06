@@ -95,17 +95,17 @@ const DeviBirthdayCountdown = () => {
                         <PartyPopper className="w-24 h-24 text-yellow-300 mx-auto mb-6" />
                     </div>
 
-                    <h1 className="text-6xl md:text-8xl font-bold text-white mb-4 animate-bounce">
-                        🎉 HAPPY BIRTHDAY! 🎉
+                    <h1 className="text-6xl md:text-6xl font-bold text-white mb-4 animate-bounce">
+                        🎉 GILOCAV SHE TANTALA KVERCXO! 🎉
                     </h1>
 
                     <h2 className="text-4xl md:text-6xl font-bold text-yellow-300 mb-8 animate-pulse">
-                        DEVI ONIANI
+                        დევიკო ონიანი არის {new Date().getFullYear().toString().slice(-2)} წლის!
                     </h2>
 
                     <div className="space-y-6">
                         <p className="text-2xl md:text-3xl text-white font-medium">
-                            Hope your special day is amazing!
+                            ვიმედოვნებ არ გაგორდი &lt;3333333
                         </p>
 
                         <button
