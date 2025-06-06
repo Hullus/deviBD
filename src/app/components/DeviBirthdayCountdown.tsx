@@ -132,7 +132,7 @@ const DeviBirthdayCountdown = () => {
         <div className="min-h-screen bg-black flex items-center justify-center overflow-hidden relative">
             {/* Animated background stars */}
             <div className="absolute inset-0">
-                {[...Array(50)].map((_, i) => (
+                {[...Array(100)].map((_, i) => (
                     <div
                         key={i}
                         className="absolute bg-white rounded-full animate-pulse"
